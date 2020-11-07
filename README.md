@@ -1,2 +1,5 @@
 # hello-world
-Just a time-honored tradition in computer programming
+
+Hello, World!
+
+I am just doing a time-honored tradition in computer programming for the newbie.
